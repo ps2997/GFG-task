@@ -1,0 +1,8 @@
+In the following code we take an odd number as a input (N)
+and then take another variable where we set the value of the variable to be 3 times the value of the input
+
+We execute a 'for' loop starting from 1 till N-1 times the value of the input number with the step count value equal to 2.
+Inside the for loop we print the logo (".|."), 'i' number of times using the 'center' method of string.
+
+We execute the second 'for' loop starting from N-2 till 0 with the step count equal to -2.
+Inside the for loop we print the logo (".|."), 'i' number of times using the 'center' method of string.
